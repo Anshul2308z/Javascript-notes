@@ -37,6 +37,6 @@ function sumofsomething(a , b , fn){
     
     return console.log(`Sum of ${fn.name}:${sum} `);
 }/* was having difficulty printing name of fn due to wahatever reason
-ways to do it are 2 : firt is fn.name second is let w = console.log(fn)*/
+ways to do it are 2 : first is fn.name second is let w = console.log(fn)*/
 
 sumofsomething(4,4,square);

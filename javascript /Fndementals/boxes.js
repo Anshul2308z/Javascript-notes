@@ -34,5 +34,5 @@ user2: {
 //getting output 
 console.log(allusers.user1);
 
-// kya headache hai BC
+
     
