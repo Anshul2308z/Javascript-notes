@@ -17,14 +17,24 @@ const alpha="   electrification   "
 console.log(omega.length/*this denotes length of the string*/)
 console.log(omega.slice(0,8))
 // console.log(omega.substr(0,7))
-
+console.log(omega.charAt(5))
+// prints value of character at console
 
 console.log(omega.indexOf("s"))
 console.log(omega.lastIndexOf("s"))
 
+console.log(omega.startswith("B")
+console.log(omega.endswith("B")
+// returns a boolean
 
 
 console.log(omega.replace("manship"," saint"))
+console.log(omega.replaceAll(" ","_")
+
+ 
+console.log(omega.padStart(30,"0")
+console.log(omega.padEnd(30,"0")
+            
 
 console.log(omega.split(" "))
 
